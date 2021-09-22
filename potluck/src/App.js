@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
 import RegisterForm from "./components/Register";
 import LoginForm from "./components/Login";
-import { loginImg } from './components/Loginimg'
+import { loginImg } from './components/Loginimg' 
 
 import "./App.css";
 
